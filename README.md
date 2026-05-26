@@ -1,111 +1,102 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Lekhni%20Bakliwal&fontSize=50&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Lekhni%20Bakliwal!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Lekhni Bakliwal Header" />
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/lekhni-bakliwal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;Competitive+Programmer+🏆;Hackathon+Enthusiast+🚀;AI-Driven+Platform+Builder+🧠" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
   <a href="mailto:bakliwallekhni1502@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/lekhni-bakliwal-8a8236311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/glitchygenius1502">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+<br/>
+
+## 💫 About Me
+
+I am a **B.Tech Computer Science student at IIIT Kota** with a deep passion for full-stack development, competitive programming, and leveraging AI to solve real-world problems. I thrive in hackathons and love architecting platforms that make a tangible impact. 
+
+* 🎓 Learning and growing at **Indian Institute of Information Technology, Kota**.
+* 🌟 Co-Chair for Model United Nations (MUN) events and an active core member of the Odyssey Club.
+* 💬 Ask me about **React, Node.js, AI integrations, or DSA**.
+* ⚡ Motto: *"Code. Innovate. Impact."*
+
+---
+
+## 🛠️ My Tech Arsenal
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies Built With |
+| :--- | :--- | :--- |
+| **[InTune](#)** | AI Roommate Matching Platform using OCR-based Aadhaar KYC (reduced spam by 85%). Features VoiceMatch, encrypted chat, and an ML matching engine with 92% accuracy. | `React`, `Express.js`, `Firebase`, `MongoDB`, `EasyOCR`, `SBERT` |
+| **[RentEase](#)** | AI-Powered Rental Platform featuring automated KYC, DocuSign API for 90% faster e-stamping, Stripe escrows, and a TensorFlow dispute chatbot. | `React`, `Node.js`, `MongoDB`, `TensorFlow`, `DocuSign`, `Stripe` |
+| **[Saarthi](#)** | AI Women's Wellness Platform with 8+ modules. Includes encrypted health data management, CoWIN API integration, and SheCycle+ for period tracking. | `Next.js`, `Express.js`, `Postgres`, `JWT`, `Tailwind` |
+
+*(Note: Don't forget to update the `#` links above with your actual GitHub repository links!)*
+
+---
+
+## 🏆 Achievements & Coding Profiles
+
+### Hackathons
+* 🥈 **Semi-Finalist** — Google Big Code Challenge
+* 🏅 **Grand Finalist (Top 5)** - Pixel Pallte Hackathon, Manipal University Jaipur (850+ teams).
+* 🏆 **Category Winner & Top 10 Overall** - Hackorbit Hackathon, MITS Gwalior (800+ participants).
+* 🌟 **National Finalist (Top 12)** - SheBuilds Hackathon 2025 (1500+ participants).
+
+### Competitive Programming
+* ⚔️ **LeetCode:** Achieved **Knight** badge (Max Rating: 1920). Solved 1000+ total problems across coding platforms.
+* ⭐ **CodeChef:** Achieved **3-Star** rating (Max Rating: 1624).
+
+<div align="left">
   <a href="https://leetcode.com/glitchygenius1502">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/glitchygenius1502">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </div>
 
-<br><br>
+---
 
-<div align="center">
-  <code>
-    <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=bool+isUnique(const+string%26+xolvineran)+%7B;++++return+xolvineran+%3D%3D+%22Lekhni+Bakliwal%22%3B;%7D" alt="Typing Code" />
-  </code>
-</div>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👾 Who Am I?</h3>
-      <p>I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking competitive programming algorithms. I love combining clean, modular C++ logic with dynamic AI integrations.</p>
-      <ul>
-        <li>💼 MERN Stack Intern @ <b>AlphaDot Technologies</b> [cite: 8, 9]</li>
-        <li>🎓 B.Tech CSE @ <b>IIIT Kota</b> [cite: 5]</li>
-        <li>🌟 <b>Co-Chair</b> for MUN events & Odyssey Club Core Member [cite: 33, 35]</li>
-        <li>💡 Building AI platforms like <i>InTune</i>, <i>RentEase</i>, and <i>Saarthi</i> [cite: 17, 22, 23]</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏆 Hall of Fame</h3>
-      <ul>
-        <li>⚔️ <b>LeetCode Knight:</b> Rating 1920 (1000+ problems solved) [cite: 31, 32]</li>
-        <li>⭐ <b>CodeChef:</b> 3-Star Coder (Rating 1624) [cite: 31]</li>
-        <li>🥇 <b>Pixel Pallte Hackathon:</b> Grand Finalist (Top 5 / 850+) [cite: 28]</li>
-        <li>🎯 <b>Hackorbit MITS:</b> Category Winner (Top 10 / 800+) [cite: 29]</li>
-        <li>🌟 <b>SheBuilds 2025:</b> National Finalist [cite: 30]</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">⚡ Tech Stack & Tools</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,py,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,bootstrap,threejs,git,figma&perline=10" />
-  </a>
-</p>
-
-<br>
-
-<h2 align="center">🔥 Project Showcase</h2>
-
-<table border="0" width="100%" align="center">
-  <tr align="center">
-    <td width="33%">
-      <img src="https://img.shields.io/badge/AI%20Matching-FF007F?style=for-the-badge" /><br><br>
-      <b>InTune</b><br>
-      <i>SBERT • React • OCR</i><br>
-      AI roommate matching with 92% accuracy and 85% spam reduction. [cite: 19, 20]
-    </td>
-    <td width="33%">
-      <img src="https://img.shields.io/badge/FinTech-00F0FF?style=for-the-badge" /><br><br>
-      <b>RentEase</b><br>
-      <i>Node.js • TensorFlow • Stripe</i><br>
-      AI rental platform cutting agreement creation time by 90% via DocuSign. [cite: 22]
-    </td>
-    <td width="33%">
-      <img src="https://img.shields.io/badge/HealthTech-7000FF?style=for-the-badge" /><br><br>
-      <b>Saarthi</b><br>
-      <i>Next.js • Postgres • JWT</i><br>
-      Women's wellness platform integrating CoWIN API and securing health data. [cite: 23]
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<h2 align="center">📊 GitHub Analytics (Synthwave Edition)</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glitchygenius1502&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchygenius1502&theme=synthwave&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchygenius1502&layout=compact&theme=synthwave&hide_border=true" width="60%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=glitchygenius1502&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
