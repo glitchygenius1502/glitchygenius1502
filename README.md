@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Lekhni%20Bakliwal!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Lekhni Bakliwal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0D1117&height=250&section=header&text=Hi,%20I'm%20Lekhni%20Bakliwal!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Lekhni Bakliwal Header" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
   <a href="mailto:bakliwallekhni1502@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
+  <a href="https://www.linkedin.com/in/lekhni-bakliwal-8a8236311/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/glitchygenius1502">
@@ -23,11 +23,10 @@
 
 ## 💫 About Me
 
-I am a **B.Tech Computer Science student at IIIT Kota** with a deep passion for full-stack development, competitive programming, and leveraging AI to solve real-world problems. I thrive in hackathons and love architecting platforms that make a tangible impact. 
+I am a **B.Tech Computer Science student at IIIT Kota** [cite: 5] with a deep passion for full-stack development, competitive programming, and leveraging AI to solve real-world problems. I thrive in hackathons and love architecting platforms that make a tangible impact. 
 
-* 💼 Currently working as a **MERN Stack Intern** at AlphaDot Technologies.
-* 🎓 Learning and growing at **Indian Institute of Information Technology, Kota**.
-* 🌟 Co-Chair for Model United Nations (MUN) events and an active core member of the Odyssey Club.
+* 🎓 Learning and growing at **Indian Institute of Information Technology, Kota**[cite: 5].
+* 🌟 Co-Chair for Model United Nations (MUN) events and an active core member of the Odyssey Club[cite: 33, 35].
 * 💬 Ask me about **React, Node.js, AI integrations, or DSA**.
 * ⚡ Motto: *"Code. Innovate. Impact."*
 
@@ -70,9 +69,9 @@ I am a **B.Tech Computer Science student at IIIT Kota** with a deep passion for 
 
 | Project | Description | Technologies Built With |
 | :--- | :--- | :--- |
-| **[InTune](#)** | AI Roommate Matching Platform using OCR-based Aadhaar KYC (reduced spam by 85%). Features VoiceMatch, encrypted chat, and an ML matching engine with 92% accuracy. | `React`, `Express.js`, `Firebase`, `MongoDB`, `EasyOCR`, `SBERT` |
-| **[RentEase](#)** | AI-Powered Rental Platform featuring automated KYC, DocuSign API for 90% faster e-stamping, Stripe escrows, and a TensorFlow dispute chatbot. | `React`, `Node.js`, `MongoDB`, `TensorFlow`, `DocuSign`, `Stripe` |
-| **[Saarthi](#)** | AI Women's Wellness Platform with 8+ modules. Includes encrypted health data management, CoWIN API integration, and SheCycle+ for period tracking. | `Next.js`, `Express.js`, `Postgres`, `JWT`, `Tailwind` |
+| **[InTune](#)** | AI Roommate Matching Platform using OCR-based Aadhaar KYC (reduced spam by 85%)[cite: 17, 19]. Features VoiceMatch, encrypted chat, and an ML matching engine with 92% accuracy[cite: 20, 21]. | `React`, `Express.js`, `Firebase`, `MongoDB`, `EasyOCR`, `SBERT` [cite: 17] |
+| **[RentEase](#)** | AI-Powered Rental Platform featuring automated KYC, DocuSign API for 90% faster e-stamping, Stripe escrows, and a TensorFlow dispute chatbot[cite: 22]. | `React`, `Node.js`, `MongoDB`, `TensorFlow`, `DocuSign`, `Stripe` [cite: 22] |
+| **[Saarthi](#)** | AI Women's Wellness Platform with 8+ modules[cite: 23]. Includes encrypted health data management, CoWIN API integration, and SheCycle+ for period tracking[cite: 23]. | `Next.js`, `Express.js`, `Postgres`, `JWT`, `Tailwind` [cite: 23] |
 
 *(Note: Don't forget to update the `#` links above with your actual GitHub repository links!)*
 
@@ -81,13 +80,13 @@ I am a **B.Tech Computer Science student at IIIT Kota** with a deep passion for 
 ## 🏆 Achievements & Coding Profiles
 
 ### Hackathons
-* 🏅 **SemiFinalist in Google Big Code'26** - Competitive Programming contest based comepetition among more than 1.5 lakhs partcipants. 
-* 🏆 **Category Winner & Top 10 Overall** - Hackorbit Hackathon, MITS Gwalior (800+ participants).
-* 🌟 **National Finalist (Top 12)** - SheBuilds Hackathon 2025 (1500+ participants).
+* 🏅 **Grand Finalist (Top 5)** - Pixel Pallte Hackathon, Manipal University Jaipur (850+ teams)[cite: 28].
+* 🏆 **Category Winner & Top 10 Overall** - Hackorbit Hackathon, MITS Gwalior (800+ participants)[cite: 29].
+* 🌟 **National Finalist (Top 12)** - SheBuilds Hackathon 2025 (1500+ participants)[cite: 30].
 
 ### Competitive Programming
-* ⚔️ **LeetCode:** Achieved **Knight** badge (Max Rating: 1920). Solved 1000+ total problems across coding platforms.
-* ⭐ **CodeChef:** Achieved **3-Star** rating (Max Rating: 1624).
+* ⚔️ **LeetCode:** Achieved **Knight** badge (Max Rating: 1920)[cite: 31]. Solved 1000+ total problems across coding platforms[cite: 32].
+* ⭐ **CodeChef:** Achieved **3-Star** rating (Max Rating: 1624)[cite: 31].
 
 <div align="left">
   <a href="https://leetcode.com/glitchygenius1502">
