@@ -1,47 +1,18 @@
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-<img 
-width="100%" 
-src="https://capsule-render.vercel.app/api?type=rect&color=E6E6FA&height=380&section=header&text=✨%20Lekhni%20Bakliwal%20✨&fontSize=58&fontColor=6C63FF&animation=fadeIn&fontAlignY=28&desc=Hackathon%20Finalist%20🚀%20%20|%20%20AI-Driven%20Developer%20🧠%20%20|%20%20MERN%20Stack%20Developer%20💻%20%20|%20%20Competitive%20Programmer%20🏆&descAlignY=50&descSize=19"
-/>
-
-</td>
-</tr>
-</table>
-
-<!-- Decorative Elements -->
-
-<p align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="120"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="110"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="110"/>
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&height=100&lines=Hey+There!+👋;I'm+Lekhni+Bakliwal+✨;MERN+Stack+Developer+💻;Competitive+Programmer+🏆;AI+Enthusiast+🧠" />
 
 <br/>
 
-<img 
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Code.+Innovate.+Impact.+✨;Building+AI-Powered+Platforms+🚀;1000%2B+DSA+Problems+Solved+💯;Creating+Tech+for+Real-World+Problems+🌸" 
-/>
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8d27-2d3cf6f59f6.gif" width="400"/>
 
-<br/><br/>
+</div>
 
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=glitchygenius1502&bg_color=E6E6FA&color=6C63FF&line=9D4EDD&point=FF69B4&area=true&hide_border=true" 
-width="95%"
-/>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;Competitive+Programmer+🏆;Hackathon+Enthusiast+🚀;AI-Driven+Platform+Builder+🧠" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -129,9 +100,10 @@ I am a **B.Tech Computer Science student at IIIT Kota** with a deep passion for 
   <a href="https://leetcode.com/glitchygenius1502">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/colony_book_87">
+  <a href="https://www.codechef.com/users/glitchygenius1502">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </div>
 
 ---
+ in this code remve the effect at top from blue colour https://www.codechef.com/users/colony_book_87https://www.codechef.com/users/colony_book_87https://www.codechef.com/users/colony_book_87https://www.codechef.com/users/colony_book_87 my codechef updare makke it attractive in teh stack used use logos 
