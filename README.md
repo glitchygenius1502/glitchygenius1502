@@ -1,12 +1,11 @@
-````md
-<h1 align="center">˚₊‧꒰ა Hi, I'm Lekhni Bakliwal ໒꒱ ‧₊˚</h1>
+# ˚₊‧꒰ა Hi, I'm Lekhni Bakliwal ໒꒱ ‧₊˚
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=LeetCode+Knight+⚔️;AI%2FML+Explorer+🤖;Full+Stack+Developer+💻;Hackathon+Finalist+🌸;1000%2B+DSA+Problems+Solved&center=true&width=650&height=45&color=F8A5C2">
 </p>
 
 <p align="center">
-  <i>building ideas with code, caffeine & chaos ✨</i>
+<i>building ideas with code, caffeine & chaos ✨</i>
 </p>
 
 ---
@@ -20,14 +19,14 @@ while(!success){
    build();
    improve();
 }
-````
+```
 
-୨୧ 🎓 B.Tech CSE Student @ IIIT Kota
-୨୧ 💻 Solved 1000+ DSA Problems
-୨୧ ⚔️ LeetCode Knight & Competitive Programmer
-୨୧ 🧠 Exploring AI/ML + Full Stack Development
-୨୧ 🌸 Hackathon Enthusiast
-୨୧ ☕ Powered by coffee & late-night debugging
+* 🎓 B.Tech CSE Student @ IIIT Kota
+* 💻 Solved 1000+ DSA Problems
+* ⚔️ LeetCode Knight
+* 🧠 Exploring AI/ML + Full Stack Development
+* 🌸 Hackathon Enthusiast
+* ☕ Powered by coffee & late-night debugging
 
 ---
 
@@ -35,7 +34,7 @@ while(!success){
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css,sql" />
 
 <br><br>
 
@@ -51,41 +50,27 @@ while(!success){
 
 ## ✨ Featured Projects
 
-### 🌸 InTune — AI Roommate Matching Platform
+### 🌸 InTune
 
-* AI-powered compatibility matching using SBERT
-* OCR-based Aadhaar KYC verification
-* GPT-integrated onboarding assistant
-* VoiceMatch + encrypted chat support
+AI-powered roommate matching platform using SBERT + OCR + GPT integration.
 
----
+### 🏡 RentEase
 
-### 🏡 RentEase — AI Rental Platform
+Smart AI rental platform with KYC verification & secure payment workflows.
 
-* AI-based tenant verification system
-* Stripe escrow integration
-* TensorFlow chatbot support
-* Smart agreement workflow using DocuSign
+### 💖 Saarthi
 
----
-
-### 💖 Saarthi — AI Women's Wellness Platform
-
-* Healthcare accessibility ecosystem
-* Vaccine alerts using CoWIN API
-* Secure JWT authentication system
-* NGO support & wellness modules
+AI wellness ecosystem focused on healthcare accessibility & NGO support.
 
 ---
 
 ## 🏆 Highlights
 
-୨୧ 🥇 HackOrbit Hackathon Winner
-୨୧ 🌟 SheBuilds National Finalist
-୨୧ 🚀 Google Girl Hackathon Semi Finalist
-୨୧ ⚔️ LeetCode Knight
-୨୧ 💼 MERN Stack Intern @ AlphaDot Technologies
-୨୧ 💻 1000+ Problems Solved Across Platforms
+* 🥇 HackOrbit Hackathon Winner
+* 🌟 SheBuilds National Finalist
+* 🚀 Google Girl Hackathon Semi Finalist
+* ⚔️ LeetCode Knight
+* 💼 MERN Stack Intern @ AlphaDot Technologies
 
 ---
 
@@ -111,35 +96,35 @@ while(!success){
 
 <p align="center">
 
-<a href="https://github.com/glitchygenius1502" target="_blank">
+<a href="https://github.com/glitchygenius1502">
 <img src="https://img.shields.io/badge/GitHub-glitchygenius1502-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="mailto:bakliwallekhni1502@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-bakliwallekhni1502%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="#" target="_blank">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-Lekhni_Bakliwal-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="#" target="_blank">
+<a href="#">
 <img src="https://img.shields.io/badge/LeetCode-Knight_⚔️-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
-<a href="#" target="_blank">
+<a href="#">
 <img src="https://img.shields.io/badge/CodeChef-3★_Coder-5B4638?style=for-the-badge&logo=codechef">
 </a>
 
-<a href="#" target="_blank">
+<a href="#">
 <img src="https://img.shields.io/badge/Codeforces-Competitive_Programmer-1F8ACB?style=for-the-badge&logo=codeforces">
 </a>
 
-<a href="#" target="_blank">
+<a href="#">
 <img src="https://img.shields.io/badge/GeeksforGeeks-DSA_Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 </a>
 
-<a href="#" target="_blank">
+<a href="#">
 <img src="https://img.shields.io/badge/Naukri-Profile-0057B8?style=for-the-badge">
 </a>
 
@@ -147,28 +132,10 @@ while(!success){
 
 ---
 
-## 🌸 Current Focus
-
-```yaml
-Learning:
-  - System Design
-  - GenAI
-  - Backend Scalability
-  - Advanced DSA
-
-Building:
-  - AI-powered platforms
-  - Full Stack Applications
-  - Competitive Programming Skills
-```
-
----
-
 <p align="center">
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-✨ <i>Code • Create • Compete • Repeat</i> ✨
+✨ Code • Create • Compete • Repeat ✨
 
 </p>
-```
