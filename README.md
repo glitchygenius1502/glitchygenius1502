@@ -100,20 +100,4 @@ I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking 
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glitchygenius1502&show_icons=true&theme=radical&bg_color=00000000&hide_border=true" width="80%" alt="GitHub Stats" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchygenius1502&theme=radical&background=00000000&hide_border=true" width="80%" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchygenius1502&layout=compact&theme=radical&bg_color=00000000&hide_border=true" width="80%" alt="Top Languages" />
-  
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=glitchygenius1502&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
