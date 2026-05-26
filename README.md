@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="lofi-coding.png" width="600" alt="Lekhni Coding Aesthetic" style="border-radius: 15px;"/>
-  
-  <br>
+  <br><br>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Lekhni+Bakliwal+✨;MERN+Stack+Developer+💻;Competitive+Programmer+🏆;AI+Platform+Architect+🎀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=✨+Lekhni+Bakliwal+✨;MERN+Stack+Developer+💻;Competitive+Programmer+🏆;AI+Platform+Architect+🎀" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +27,7 @@
 
 <div align="center">
   <code>
-    <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=bool+isUnique(const+string%26+xolvineran)+%7B;++++return+xolvineran+%3D%3D+%22Lekhni+Bakliwal%22%3B;%7D" alt="Typing Code" />
+    <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=bool+isUnique(const+string%26+xolvineran)+%7B;++++return+xolvineran+%3D%3D+%22Lekhni+Bakliwal%22%3B;%7D" alt="Typing Code" />
   </code>
 </div>
 
@@ -39,9 +37,9 @@
 
 I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking competitive programming algorithms. I love combining clean, modular C++ logic with dynamic AI integrations.
 
-* 🎓 **Education:** B.Tech in Computer Science and Engineering @ Indian Institute of Information Technology, Kota [cite: 5]
-* 🌟 **Leadership:** Co-Chair for MUN events & Odyssey Club Core Member [cite: 33, 35]
-* 🌱 **Community:** Core Member at Team Green Campus Chapter [cite: 39]
+* 🎓 **Education:** B.Tech in Computer Science and Engineering [cite: 5] @ Indian Institute of Information Technology, Kota [cite: 5]
+* 🌟 **Leadership:** Co-Chair for Model United Nations (MUN) events [cite: 33] & Core Member, Odyssey Club [cite: 35]
+* 🌱 **Community:** Core Member, Team Green Campus Chapter [cite: 39]
 
 ---
 
@@ -57,7 +55,7 @@ I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking 
 
 ### 🎀 Featured Projects
 
-#### 🌸 InTune — AI Roommate Matching Platform
+#### 🌸 InTune — AI Roommate Matching Platform [cite: 17]
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
@@ -68,7 +66,7 @@ I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking 
 * Implemented ML matching engine (SBERT MiniLM + cosine similarity), with 92% accuracy compatibility trials. [cite: 20]
 * Integrated VoiceMatch onboarding, encrypted chat, and GPT-3.5 GuideBot, increasing user satisfaction by 75%. [cite: 21]
 
-#### 🌸 RentEase — AI-Powered Rental Platform
+#### 🌸 RentEase — AI-Powered Rental Platform [cite: 22]
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -79,7 +77,7 @@ I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking 
 * Integrated DocuSign for e-stamping, cutting agreement creation time by 90% (2 days to 30 mins). [cite: 22]
 * Implemented TensorFlow chatbot (85% dispute resolution) and Stripe-based escrow for secure rent flow. [cite: 22]
 
-#### 🌸 Saarthi — AI Women's Wellness Platform
+#### 🌸 Saarthi — AI Women's Wellness Platform [cite: 23]
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -95,8 +93,9 @@ I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking 
 ### 🏆 Hall of Fame
 
 **Competitive Programming:**
-* ⚔️ **LeetCode:** Achieved 1920 (Knight) on LeetCode. [cite: 31] Solved 1000+ programming problems on LeetCode, Coding 360 and GFG. [cite: 32]
+* ⚔️ **LeetCode:** Achieved 1920 (Knight) on LeetCode. [cite: 31]
 * ⭐ **CodeChef:** Achieved 1624 (3-star) on CodeChef. [cite: 31]
+* 🧠 **Consistency:** Solved 1000+ programming problems on LeetCode, Coding 360 and GFG. [cite: 32]
 
 **Hackathons:**
 * 🥈 **Semi-Finalist:** Google Big Code 2026 Challenge. 
