@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&height=100&lines=Hey+There!+👋;I'm+Lekhni+Bakliwal+✨;MERN+Stack+Developer+💻;Competitive+Programmer+🏆;AI+Enthusiast+🧠" />
@@ -226,7 +225,6 @@ National Finalist (Top 12 among 1500+ participants)
 
 </div>
 
----
 
 <div align="center">
 
