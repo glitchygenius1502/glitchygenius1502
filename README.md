@@ -1,37 +1,29 @@
-<div align="center">
-  <br><br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=✨+Lekhni+Bakliwal+✨;MERN+Stack+Developer+💻;Competitive+Programmer+🏆;AI+Platform+Architect+🎀" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">✨ Lekhni Bakliwal ✨</h1>
 
-<br>
+<h3 align="center">MERN Stack Developer 💻 | Competitive Programmer 🏆 | AI Platform Architect 🎀</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/lekhni-bakliwal-8a8236311/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bakliwallekhni1502@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-B57EDC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://leetcode.com/glitchygenius_15">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-B57EDC?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/glitchygenius1502">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-B57EDC?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <code>
-    <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=bool+isUnique(const+string%26+xolvineran)+%7B;++++return+xolvineran+%3D%3D+%22Lekhni+Bakliwal%22%3B;%7D" alt="Typing Code" />
-  </code>
-</div>
+</p>
 
 ---
+
+```cpp
+// Keeping it unique 💜
+bool isUnique(const string& xolvineran) {
+    return xolvineran == "Lekhni Bakliwal";
+}
 
 ### ☁️ About Me
 
