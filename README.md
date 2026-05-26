@@ -28,7 +28,6 @@ MERN Stack Developer 💻 • Competitive Programmer 🏆 • AI Platform Archit
 
 ---
 
-```cpp
 // Keeping it unique 💜
 
 bool isUnique(const string& xolvineran){
@@ -106,4 +105,3 @@ I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and solving c
 
   ✨ code • create • compete • repeat ✨
 </p>
-```
