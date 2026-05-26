@@ -1,25 +1,47 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E6E6FA&height=340&section=header&text=Lekhni%20Bakliwal&fontSize=60&fontColor=6C63FF&animation=fadeIn&fontAlignY=30&desc=Hackathon%20Finalist%20🚀%20|%20AI-Driven%20Developer%20🧠%20|%20MERN%20Stack%20Developer%20💻%20|%20Competitive%20Programmer%20🏆&descAlignY=55&descSize=20"/>
+<table>
+<tr>
+<td>
+
+<img 
+width="100%" 
+src="https://capsule-render.vercel.app/api?type=rect&color=E6E6FA&height=380&section=header&text=✨%20Lekhni%20Bakliwal%20✨&fontSize=58&fontColor=6C63FF&animation=fadeIn&fontAlignY=28&desc=Hackathon%20Finalist%20🚀%20%20|%20%20AI-Driven%20Developer%20🧠%20%20|%20%20MERN%20Stack%20Developer%20💻%20%20|%20%20Competitive%20Programmer%20🏆&descAlignY=50&descSize=19"
+/>
+
+</td>
+</tr>
+</table>
+
+<!-- Decorative Elements -->
+
+<p align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="120"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="110"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="110"/>
+
+</p>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=850&lines=Code.+Innovate.+Impact.+✨;Building+AI+Powered+Platforms+🚀;1000%2B+DSA+Problems+Solved+💯;Creating+Tech+For+Real+World+Problems+🌸" />
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Code.+Innovate.+Impact.+✨;Building+AI-Powered+Platforms+🚀;1000%2B+DSA+Problems+Solved+💯;Creating+Tech+for+Real-World+Problems+🌸" 
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=glitchygenius1502&bg_color=E6E6FA&color=6C63FF&line=9D4EDD&point=FF69B4&area=true&hide_border=true"/>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=glitchygenius1502&bg_color=E6E6FA&color=6C63FF&line=9D4EDD&point=FF69B4&area=true&hide_border=true" 
+width="95%"
+/>
 
-</div>
-
-
-
-
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;Competitive+Programmer+🏆;Hackathon+Enthusiast+🚀;AI-Driven+Platform+Builder+🧠" alt="Typing SVG" />
-  </a>
 </div>
 
 <div align="center">
