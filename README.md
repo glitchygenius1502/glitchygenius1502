@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Lekhni%20Bakliwal&fontSize=50&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Aesthetic Coding Banner"/>
 </div>
+
+<div align="center">
+  <h1>Lekhni Bakliwal</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;Competitive+Programmer+🏆;AI+Platform+Architect+🚀" alt="Typing SVG" />
+  </a>
+</div>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lekhni-bakliwal-8a8236311/">
