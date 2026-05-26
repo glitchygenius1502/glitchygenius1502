@@ -101,9 +101,9 @@ I am Lekhni Bakliwa a **B.Tech Computer Science student at IIIT Kota** with a de
   <a href="https://leetcode.com/glitchygenius1502">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/glitchygenius1502">
+  <a href="https://www.codechef.com/users/colony_book_87">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </div>
 
- in this code remve the effect at top from blue colour https://www.codechef.com/users/colony_book_87https://www.codechef.com/users/colony_book_87https://www.codechef.com/users/colony_book_87https://www.codechef.com/users/colony_book_87 my codechef updare makke it attractive in teh stack used use logos  in this code in tech stack use logos infront of projects
+ 
