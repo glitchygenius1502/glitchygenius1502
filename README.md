@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Lekhni%20Bakliwal!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Lekhni Bakliwal Header" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&height=100&lines=Hey+There!+👋;I'm+Lekhni+Bakliwal+✨;MERN+Stack+Developer+💻;Competitive+Programmer+🏆;AI+Enthusiast+🧠" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8d27-2d3cf6f59f6.gif" width="400"/>
+
 </div>
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -93,7 +101,7 @@ I am a **B.Tech Computer Science student at IIIT Kota** with a deep passion for 
   <a href="https://leetcode.com/glitchygenius1502">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/glitchygenius1502">
+  <a href="https://www.codechef.com/users/colony_book_87">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </div>
