@@ -1,107 +1,131 @@
-<h1 align="center">✨ Lekhni Bakliwal ✨</h1>
+<p align="center">
 
-<h3 align="center">
-MERN Stack Developer 💻 • Competitive Programmer 🏆 • AI Platform Architect 🎀
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B57EDC&height=220&section=header&text=Lekhni%20Bakliwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Developer%20•%20LeetCode%20Knight%20•%20AI%20Explorer&descAlignY=55&descAlign=50"/>
+
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lekhni-bakliwal-8a8236311/">
-    <img src="https://img.shields.io/badge/LinkedIn-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:bakliwallekhni1502@gmail.com">
-    <img src="https://img.shields.io/badge/Email-B57EDC?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-f5c2e7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://leetcode.com/glitchygenius_15">
-    <img src="https://img.shields.io/badge/LeetCode-B57EDC?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-f9e2af?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
   <a href="https://www.codechef.com/users/glitchygenius1502">
-    <img src="https://img.shields.io/badge/CodeChef-B57EDC?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-dbb6ac?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 
   <a href="https://github.com/glitchygenius1502">
-    <img src="https://img.shields.io/badge/GitHub-B57EDC?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-b4befe?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-// Keeping it unique 💜
+<h3 align="center">୨୧ AI • Full Stack • Competitive Programming ୨୧</h3>
 
-bool isUnique(const string& xolvineran){
-    return xolvineran == "Lekhni Bakliwal";
-}
-````
-
-### ☁️ About Me
-
-I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and solving competitive programming problems. I enjoy combining clean C++ logic with modern AI integrations and scalable full-stack applications.
-
-* 🎓 B.Tech in Computer Science and Engineering @ IIIT Kota
-* 🌸 MERN Stack Developer & AI Enthusiast
-* ⚔️ LeetCode Knight
-* 🏆 Hackathon Finalist & Competitive Programmer
-* ☕ Debugging powered by caffeine & chaos
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=LeetCode+Knight+⚔️;Hackathon+Finalist+🌸;Building+AI+Powered+Platforms+💻;1000%2B+DSA+Problems+Solved+✨"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🌷 About Me
+
+````cpp
+while(!success){
+    learn();
+    code();
+    improve();
+}
+`````
+
+* 🎓 B.Tech CSE @ IIIT Kota
+* ⚔️ LeetCode Knight
+* 💻 MERN Stack Developer
+* 🤖 Exploring AI/ML & scalable systems
+* 🏆 Hackathon Enthusiast
+* ☕ Powered by caffeine & debugging
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,git,github,vscode,figma"/>
 
 </p>
 
 ---
 
-### 🎀 Featured Projects
+## 🎀 Featured Projects
 
-#### 🌸 InTune — AI Roommate Matching Platform
+### 🌸 InTune
 
-* AI-powered roommate compatibility platform using SBERT MiniLM
-* OCR-based Aadhaar KYC verification reducing spam accounts
-* GPT-integrated onboarding assistant with encrypted chat support
+AI-powered roommate matching platform using SBERT, OCR-based KYC & GPT integrations.
 
----
+### 🏡 RentEase
 
-#### 🌸 RentEase — AI-Powered Rental Platform
+AI rental ecosystem with smart verification, Stripe escrow & TensorFlow chatbot.
 
-* AI-based rental ecosystem with automated tenant verification
-* Stripe escrow integration & DocuSign workflow automation
-* TensorFlow-powered chatbot for dispute resolution
+### 💖 Saarthi
+
+AI wellness platform focused on healthcare accessibility & NGO support systems.
 
 ---
 
-#### 🌸 Saarthi — AI Women's Wellness Platform
+## 🏆 Highlights
 
-* AI wellness ecosystem with healthcare accessibility modules
-* Secure JWT authentication with Postgres integration
-* Built vaccine alerts and NGO support modules using Next.js
-
----
-
-### 🏆 Hall of Fame
-
-#### ⚔️ Competitive Programming
-
-* LeetCode Knight (1920 Rating)
-* CodeChef 3★ Coder (1624 Rating)
-* Solved 1000+ DSA Problems across platforms
-
----
-
-#### 🌟 Hackathons
-
-* 🥈 Semi-Finalist — Google Big Code Challenge
-* 🥇 Top 5 Finalist — Pixel Palette Hackathon
-* 🎯 Category Winner — HackOrbit Hackathon
-* 🌸 National Finalist — SheBuilds Hackathon 2025
+* 🥇 HackOrbit Hackathon Winner
+* 🌸 SheBuilds National Finalist
+* 🚀 Google Big Code Semi Finalist
+* ⚔️ LeetCode Knight
+* 💻 MERN Stack Intern @ AlphaDot Technologies
 
 ---
 
 
-  ✨ code • create • compete • repeat ✨
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lekhni-bakliwal-8a8236311/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/glitchygenius1502">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/glitchygenius_15">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+</a>
+
+<a href="https://www.codechef.com/users/glitchygenius1502">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="48"/>
+</a>
+
+<a href="mailto:bakliwallekhni1502@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
+
+---
+
+<p align="center">
+
+૮ ˶ᵔ ᵕ ᵔ˶ ა
+
+✨ code • create • compete • repeat ✨
+
+</p>
+````
