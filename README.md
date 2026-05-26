@@ -39,9 +39,8 @@
 
 I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking competitive programming algorithms. I love combining clean, modular C++ logic with dynamic AI integrations.
 
-* 💼 **Current Role:** MERN Stack Intern @ AlphaDot Technologies 
 * 🎓 **Education:** B.Tech CSE @ IIIT Kota 
-* 🌟 **Leadership:** Co-Chair for MUN events & Odyssey Club Core Member 
+* 🌟 **Leadership:** Co-Chair for Model of United Nations Confernces & Odyssey Club Core Member 
 * 🌱 **Community:** Core Member at Team Green Campus Chapter 
 
 ---
