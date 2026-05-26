@@ -1,12 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&height=100&lines=Hey+There!+👋;I'm+Lekhni+Bakliwal+✨;MERN+Stack+Developer+💻;Competitive+Programmer+🏆;AI+Enthusiast+🧠" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=320&section=header&text=✨%20Lekhni%20Bakliwal%20✨&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=MERN%20Stack%20Developer%20💻%20|%20Competitive%20Programmer%20🏆%20|%20AI%20Enthusiast%20🧠&descAlignY=50&descSize=18" 
+/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8d27-2d3cf6f59f6.gif" width="400"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Building+Impactful+Projects+🚀;1000%2B+DSA+Problems+Solved+💯;Hackathon+Finalist+🌟;Full+Stack+%2B+AI+Developer+💡" />
 
 </div>
+
 
 
 
