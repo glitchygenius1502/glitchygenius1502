@@ -1,78 +1,111 @@
 <div align="center">
-  <h1 align="center">Lekhni Bakliwal</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=008080&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;Competitive+Programmer;AI+Platform+Architect" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Lekhni%20Bakliwal&fontSize=50&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
-  <a href="mailto:bakliwallekhni1502@gmail.com">📫 Email Me</a> •
-  <a href="https://linkedin.com/in/lekhni-bakliwal">🔗 LinkedIn</a> •
-  <a href="https://leetcode.com/glitchygenius1502">⚔️ LeetCode</a> •
-  <a href="https://www.codechef.com/users/glitchygenius1502">⭐ CodeChef</a>
+  <a href="https://www.linkedin.com/in/lekhni-bakliwal-8a8236311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bakliwallekhni1502@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/glitchygenius_15">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/glitchygenius1502">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <code>
+    <img width="600" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=bool+isUnique(const+string%26+xolvineran)+%7B;++++return+xolvineran+%3D%3D+%22Lekhni+Bakliwal%22%3B;%7D" alt="Typing Code" />
+  </code>
 </div>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-<br>
 
-### 👩‍💻 The Architecture of Me
-
-I am a B.Tech Computer Science student at IIIT Kota, driven by a passion for competitive programming and building scalable, AI-powered applications. Currently, I'm applying my skills as a **MERN Stack Intern** at AlphaDot Technologies. I thrive in high-pressure hackathons and love transforming complex algorithms into real-world impact.
-
-<br>
-
-### 🛠️ Technical Arsenal
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | C++, C, JavaScript, Python, Java, SQL, HTML, CSS |
-| **Frontend** | React.js, Next.js, Tailwind CSS, Bootstrap, Three.js |
-| **Backend & DB** | Node.js, Express.js, MongoDB, PostgreSQL, Firebase |
-| **Core Skills** | Data Structures & Algorithms, OOP, DBMS, OS |
-
-<br>
-
-### 🚀 Featured Engineering 
-
-> **[InTune](#)** — *AI Roommate Matching Platform*
-> * Engineered an ML matching engine (SBERT MiniLM + cosine similarity) with 92% accuracy.
-> * Integrated OCR-based Aadhaar KYC, effectively reducing spam by 85%.
-
-> **[RentEase](#)** — *AI-Powered Rental Platform*
-> * Automated KYC to reduce early-user fraud by 70%.
-> * Integrated the DocuSign API to cut agreement creation time by 90% and implemented a TensorFlow dispute chatbot.
-
-> **[Saarthi](#)** — *AI Women's Wellness Platform*
-> * Architected 8+ wellness modules in Next.js, prioritizing secure health data using Postgres and JWT.
-> * Integrated the COWIN API to improve vaccine alerts and data safety.
-
-<br>
-
-### 🏆 Milestones & Metrics
-
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <b>Competitive Programming</b><br><br>
-      ⚔️ <b>LeetCode:</b> Knight (Max: 1920) <br>
-      ⭐ <b>CodeChef:</b> 3-Star (Max: 1624)<br>
-      🧠 Solved 1000+ programming problems across platforms.
+    <td width="50%" valign="top">
+      <h3 align="center">👾 Who Am I?</h3>
+      <p>I am a B.Tech CSE student at IIIT Kota, crafting seamless web apps and cracking competitive programming algorithms. I love combining clean, modular C++ logic with dynamic AI integrations.</p>
+      <ul>
+        <li>💼 MERN Stack Intern @ <b>AlphaDot Technologies</b> [cite: 8, 9]</li>
+        <li>🎓 B.Tech CSE @ <b>IIIT Kota</b> [cite: 5]</li>
+        <li>🌟 <b>Co-Chair</b> for MUN events & Odyssey Club Core Member [cite: 33, 35]</li>
+        <li>💡 Building AI platforms like <i>InTune</i>, <i>RentEase</i>, and <i>Saarthi</i> [cite: 17, 22, 23]</li>
+      </ul>
     </td>
-    <td width="50%">
-      <b>Hackathon Achievements</b><br><br>
-      🥇 <b>Pixel Pallte:</b> Grand Finalist (Top 5 / 850+ teams)<br>
-      🎯 <b>Hackorbit:</b> Category Winner (Top 10 / 800+ participants)<br>
-      🌟 <b>SheBuilds 2025:</b> National Finalist (Top 12 / 1500+ participants)
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 Hall of Fame</h3>
+      <ul>
+        <li>⚔️ <b>LeetCode Knight:</b> Rating 1920 (1000+ problems solved) [cite: 31, 32]</li>
+        <li>⭐ <b>CodeChef:</b> 3-Star Coder (Rating 1624) [cite: 31]</li>
+        <li>🥇 <b>Pixel Pallte Hackathon:</b> Grand Finalist (Top 5 / 850+) [cite: 28]</li>
+        <li>🎯 <b>Hackorbit MITS:</b> Category Winner (Top 10 / 800+) [cite: 29]</li>
+        <li>🌟 <b>SheBuilds 2025:</b> National Finalist [cite: 30]</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,py,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,bootstrap,threejs,git,figma&perline=10" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">🔥 Project Showcase</h2>
+
+<table border="0" width="100%" align="center">
+  <tr align="center">
+    <td width="33%">
+      <img src="https://img.shields.io/badge/AI%20Matching-FF007F?style=for-the-badge" /><br><br>
+      <b>InTune</b><br>
+      <i>SBERT • React • OCR</i><br>
+      AI roommate matching with 92% accuracy and 85% spam reduction. [cite: 19, 20]
+    </td>
+    <td width="33%">
+      <img src="https://img.shields.io/badge/FinTech-00F0FF?style=for-the-badge" /><br><br>
+      <b>RentEase</b><br>
+      <i>Node.js • TensorFlow • Stripe</i><br>
+      AI rental platform cutting agreement creation time by 90% via DocuSign. [cite: 22]
+    </td>
+    <td width="33%">
+      <img src="https://img.shields.io/badge/HealthTech-7000FF?style=for-the-badge" /><br><br>
+      <b>Saarthi</b><br>
+      <i>Next.js • Postgres • JWT</i><br>
+      Women's wellness platform integrating CoWIN API and securing health data. [cite: 23]
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h2 align="center">📊 GitHub Analytics (Synthwave Edition)</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glitchygenius1502&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchygenius1502&theme=synthwave&hide_border=true" width="48%" />
+</div>
+
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glitchygenius1502&show_icons=true&theme=transparent&hide_border=true&title_color=008080&text_color=777777&icon_color=008080" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchygenius1502&layout=compact&theme=transparent&hide_border=true&title_color=008080&text_color=777777" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchygenius1502&layout=compact&theme=synthwave&hide_border=true" width="60%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=glitchygenius1502&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
