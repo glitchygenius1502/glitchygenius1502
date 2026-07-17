@@ -55,11 +55,6 @@ I am Lekhni Bakliwal, a **B.Tech Computer Science student at IIIT Kota** with a 
 * Engineered task-generation systems producing **300+** automatically verifiable tasks across 4+ environments.
 * Owning environments end-to-end across the SDLC and leading multiple client project deliveries.
 
-**💻 MERN Stack Intern** — *AlphaDot Technologies* · Remote  
-`June 2025 – August 2025`
-* Built a full-stack **CRM dashboard** (React, Node.js, Express.js, MongoDB) for onboarding, ticketing & lead tracking.
-* Developed secure REST APIs with **JWT auth** & role-based access; cut load times **40%** via code splitting & lazy loading.
-
 ---
 
 ## 🛠️ My Tech Arsenal
