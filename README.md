@@ -25,17 +25,40 @@
   <a href="https://github.com/glitchygenius1502">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://lekhnibakliwalportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF69B4?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>✨ <a href="https://lekhnibakliwalportfolio.vercel.app">Visit My Portfolio → lekhnibakliwalportfolio.vercel.app</a> ✨</h3>
 </div>
 <br/>
 
 ## 💫 About Me
 
-I am Lekhni Bakliwa a **B.Tech Computer Science student at IIIT Kota** with a deep passion for full-stack development, competitive programming, and leveraging AI to solve real-world problems. I thrive in hackathons and love architecting platforms that make a tangible impact. 
+I am Lekhni Bakliwal, a **B.Tech Computer Science student at IIIT Kota** with a deep passion for full-stack development, competitive programming, and leveraging AI to solve real-world problems. I thrive in hackathons and love architecting platforms that make a tangible impact. 
 
 * 🎓 Learning and growing at **Indian Institute of Information Technology, Kota**.
+* 💼 Currently **SDE Intern @ Scaler AI Labs**, Bengaluru.
 * 🌟 Co-Chair for Model United Nations (MUN) events and an active core member of the Odyssey Club.
 * 💬 Ask me about **React, Node.js, AI integrations, or DSA**.
 * ⚡ Motto: *"Code. Innovate. Impact."*
+
+---
+
+## 💼 Experience
+
+**🚀 Software Development Engineer (SDE) Intern** — *Scaler AI Labs* · Bengaluru, Karnataka  
+`June 2026 – Present`
+* Building end-to-end **reinforcement learning (RL) environments** with **Next.js** & **FastAPI** as high-fidelity testbeds for training and evaluating frontier AI agents.
+* Engineered task-generation systems producing **300+** automatically verifiable tasks across 4+ environments.
+* Owning environments end-to-end across the SDLC and leading multiple client project deliveries.
+
+**💻 MERN Stack Intern** — *AlphaDot Technologies* · Remote  
+`June 2025 – August 2025`
+* Built a full-stack **CRM dashboard** (React, Node.js, Express.js, MongoDB) for onboarding, ticketing & lead tracking.
+* Developed secure REST APIs with **JWT auth** & role-based access; cut load times **40%** via code splitting & lazy loading.
 
 ---
 
@@ -86,9 +109,12 @@ I am Lekhni Bakliwa a **B.Tech Computer Science student at IIIT Kota** with a de
 
 ## 🏆 Achievements & Coding Profiles
 
+### 🎓 Selections
+* 🌟 **Selected for Amazon ML Summer School '26** — among **1,34,000+** applicants nationwide.
+
 ### Hackathons
-* 🥈 **Semi-Finalist** — Google Big Code Challenge
-* 🏅 **Grand Finalist (Top 5)** - Pixel Pallte Hackathon, Manipal University Jaipur (850+ teams).
+* 🥈 **Semi-Finalist** — Google Big Code Challenge (1 Lakh+ participants).
+* 🏅 **Grand Finalist (Top 5)** - Pixel Palette Hackathon, Manipal University Jaipur (850+ teams).
 * 🏆 **Category Winner & Top 10 Overall** - Hackorbit Hackathon, MITS Gwalior (800+ participants).
 * 🌟 **National Finalist (Top 12)** - SheBuilds Hackathon 2025 (1500+ participants).
 
